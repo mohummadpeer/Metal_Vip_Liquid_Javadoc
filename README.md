@@ -1,7 +1,7 @@
 
-# Metal Vip Liquid Game
+# Metal Vip Liquid
 
-Welcome to the Javadoc for the *Metal Vip Liquid* Game.
+Welcome to the Javadoc for the *Metal Vip Liquid*.
 
 *Metal VIP LIQUID* is a stealth game where the player would have to navigate a map without being detected. He must avoid enemies, cameras, and use weapons intelligently to progress in the game. The player can also find weapons on the map and can switch weapons depending on their need.
 
